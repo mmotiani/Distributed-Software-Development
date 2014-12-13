@@ -1,0 +1,11 @@
+E:\dsod Projects\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.dll.config
+E:\dsod Projects\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.dll
+E:\dsod Projects\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.pdb
+E:\dsod Projects\TemperatureApplication\TemperatureApplication\obj\Debug\TemperatureApplication.dll
+E:\dsod Projects\TemperatureApplication\TemperatureApplication\obj\Debug\TemperatureApplication.pdb
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.dll.config
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.dll
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\bin\TemperatureApplication.pdb
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\obj\Debug\TemperatureApplication.csprojResolveAssemblyReference.cache
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\obj\Debug\TemperatureApplication.dll
+E:\Fall 2014\DSOD\A1\Assignment 1\TemperatureApplication\TemperatureApplication\obj\Debug\TemperatureApplication.pdb

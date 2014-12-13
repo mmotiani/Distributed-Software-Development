@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureApplication", "TemperatureApplication\TemperatureApplication.csproj", "{7C9DA9AF-BD6D-481E-990B-2286ED751B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversionWebApplication", "TemperatureConversionWebApplication\TemperatureConversionWebApplication.csproj", "{5350FF71-4F73-426D-91FC-3CB1143FFEA0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32} = {7C9DA9AF-BD6D-481E-990B-2286ED751B32}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversionWindowFormApplication", "TemperatureConversionWindowFormApplication\TemperatureConversionWindowFormApplication.csproj", "{74551116-6374-4C3E-B346-088B240CB89A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32} = {7C9DA9AF-BD6D-481E-990B-2286ED751B32}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MohitBrowser", "MohitBrowser\MohitBrowser.csproj", "{9F5DCB2B-83DC-450C-8DAF-4E8E1C15ED58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9DA9AF-BD6D-481E-990B-2286ED751B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5350FF71-4F73-426D-91FC-3CB1143FFEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5350FF71-4F73-426D-91FC-3CB1143FFEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5350FF71-4F73-426D-91FC-3CB1143FFEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5350FF71-4F73-426D-91FC-3CB1143FFEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74551116-6374-4C3E-B346-088B240CB89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74551116-6374-4C3E-B346-088B240CB89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74551116-6374-4C3E-B346-088B240CB89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74551116-6374-4C3E-B346-088B240CB89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5DCB2B-83DC-450C-8DAF-4E8E1C15ED58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5DCB2B-83DC-450C-8DAF-4E8E1C15ED58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5DCB2B-83DC-450C-8DAF-4E8E1C15ED58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5DCB2B-83DC-450C-8DAF-4E8E1C15ED58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
