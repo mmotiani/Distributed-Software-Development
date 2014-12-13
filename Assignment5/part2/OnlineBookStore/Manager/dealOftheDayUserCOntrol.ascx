@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="dealOftheDayUserCOntrol.ascx.cs" Inherits="Manager_dealOftheDayUserCOntrol" %>
+<asp:Label ID="deal_of_the_day" runat="server" Text=""></asp:Label>

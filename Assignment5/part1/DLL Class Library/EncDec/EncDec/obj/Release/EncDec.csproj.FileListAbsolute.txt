@@ -1,0 +1,4 @@
+E:\dsod Projects\EncDec\EncDec\bin\Release\EncDec.dll
+E:\dsod Projects\EncDec\EncDec\bin\Release\EncDec.pdb
+E:\dsod Projects\EncDec\EncDec\obj\Release\EncDec.dll
+E:\dsod Projects\EncDec\EncDec\obj\Release\EncDec.pdb

@@ -1,0 +1,16 @@
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.csprojResolveAssemblyReference.cache
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll.config
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.pdb
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\EncDec.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\EncDec.pdb
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.pdb
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll.config
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\bin\DLLTryIt.pdb
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\bin\EncDec.dll
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\bin\EncDec.pdb
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.csprojResolveAssemblyReference.cache
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.dll
+C:\Users\mohit_motiani\Desktop\DLLTryIt\DLLTryIt\obj\Debug\DLLTryIt.pdb

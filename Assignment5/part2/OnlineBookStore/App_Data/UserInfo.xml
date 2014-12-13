@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="UserInfo.xsl"?>
+<UserInformation>
+  <information username="sreddy">
+    <First>Sushma</First>
+    <Last>Reddy</Last>
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <Role>Manager</Role>
+  </information>
+  <information username="rsatyasi">
+    <First>Rachita</First>
+    <Last>Satyasi</Last>
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <Role>Staff</Role>
+  </information>
+  <information username="chikki">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>Akash</First>
+    <Last>Nisar</Last>
+    <Role>Manager</Role>
+  </information>
+  <information username="MMM">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>MM</First>
+    <Last>MM</Last>
+    <Role>Manager</Role>
+  </information>
+  <information username="sushma">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>sushma</First>
+    <Last>sushma</Last>
+    <Role>Manager</Role>
+  </information>
+  <information username="rachita">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>sushma</First>
+    <Last>sushma</Last>
+    <Role>Manager</Role>
+  </information>
+  <information username="rachi">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>sushma</First>
+    <Last>sushma</Last>
+    <Role>Member</Role>
+  </information>
+  <information username="mohitmotiani">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>Mohit</First>
+    <Last>Motiani</Last>
+    <Role>Staff</Role>
+  </information>
+  <information username="sushm">
+    <Password>94eIy3RrT13B3H29gonIhA==</Password>
+    <First>sushma</First>
+    <Last>sushma</Last>
+    <Role>Manager</Role>
+  </information>
+</UserInformation>

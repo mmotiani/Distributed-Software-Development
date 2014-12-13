@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<listofbooks>
+  <book bookId="Software Engineering">
+    <name>Software Engineering</name>
+    <value>10</value>
+    <quantity>635</quantity>
+  </book>
+  <book bookId="Service-Oriented Software Development">
+    <name>Service-Oriented Software Development</name>
+    <value>20</value>
+    <quantity>0</quantity>
+  </book>
+  <book bookId="Mobile Computing">
+    <name>Mobile Computing</name>
+    <value>30</value>
+    <quantity>0</quantity>
+  </book>
+  <book bookId="Database">
+    <name>Database</name>
+    <value>40</value>
+    <quantity>20</quantity>
+  </book>
+  <book bookId="Data Mining">
+    <name>Data Mining</name>
+    <value>50</value>
+    <quantity>10</quantity>
+  </book>
+  <book bookId="Software Design">
+    <name>Software Design</name>
+    <value>25</value>
+    <quantity>35</quantity>
+  </book>
+</listofbooks>
