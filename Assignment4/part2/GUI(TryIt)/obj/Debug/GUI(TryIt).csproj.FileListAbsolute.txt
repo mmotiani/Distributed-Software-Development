@@ -1,0 +1,18 @@
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll.config
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).pdb
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).dll
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).pdb
+E:\dsod Projects\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).csprojResolveAssemblyReference.cache
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll.config
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).pdb
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).csprojResolveAssemblyReference.cache
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).dll
+C:\Users\mohit_motiani\Desktop\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).pdb
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll.config
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).dll
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\bin\GUI(TryIt).pdb
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).csprojResolveAssemblyReference.cache
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).dll
+E:\Fall 2014\DSOD\A4\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2_Mohit_Motiani_1206306331\Assignment4_Part2\GUI(TryIt)\obj\Debug\GUI(TryIt).pdb

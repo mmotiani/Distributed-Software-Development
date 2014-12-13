@@ -1,0 +1,12 @@
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.dll.config
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.dll
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.pdb
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.dll
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.pdb
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\bin\Hotels.dll.config
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\bin\Hotels.dll
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\bin\Hotels.pdb
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\obj\Debug\Hotels.csprojResolveAssemblyReference.cache
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\obj\Debug\Hotels.dll
+C:\Users\mohit_motiani\Desktop\Assignment4_Phase1_Mohit_Motiani_1206306331\Q4\Hotels\Hotels\obj\Debug\Hotels.pdb

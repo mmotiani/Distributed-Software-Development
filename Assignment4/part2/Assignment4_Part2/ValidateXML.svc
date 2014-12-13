@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Assignment4_Part2.ValidateXML" CodeBehind="ValidateXML.svc.cs" %>
