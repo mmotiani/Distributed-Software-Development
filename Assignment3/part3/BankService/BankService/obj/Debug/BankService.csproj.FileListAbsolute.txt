@@ -1,0 +1,18 @@
+E:\dsod Projects\BankService\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+E:\dsod Projects\BankService\BankService\bin\BankService.dll.config
+E:\dsod Projects\BankService\BankService\bin\BankService.dll
+E:\dsod Projects\BankService\BankService\bin\BankService.pdb
+E:\dsod Projects\BankService\BankService\obj\Debug\BankService.dll
+E:\dsod Projects\BankService\BankService\obj\Debug\BankService.pdb
+E:\Fall 2014\BankService\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+E:\Fall 2014\BankService\BankService\obj\Debug\BankService.dll
+E:\Fall 2014\BankService\BankService\obj\Debug\BankService.pdb
+E:\Fall 2014\BankService\BankService\bin\BankService.dll.config
+E:\Fall 2014\BankService\BankService\bin\BankService.dll
+E:\Fall 2014\BankService\BankService\bin\BankService.pdb
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\bin\BankService.dll.config
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\bin\BankService.dll
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\bin\BankService.pdb
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\obj\Debug\BankService.dll
+E:\Fall 2014\DSOD\A3\A3 part-3\BankService\BankService\obj\Debug\BankService.pdb
