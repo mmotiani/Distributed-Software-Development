@@ -1,0 +1,6 @@
+E:\dsod Projects\NearestStore\NearestStore\obj\Debug\NearestStore.csprojResolveAssemblyReference.cache
+E:\dsod Projects\NearestStore\NearestStore\bin\NearestStore.dll.config
+E:\dsod Projects\NearestStore\NearestStore\bin\NearestStore.dll
+E:\dsod Projects\NearestStore\NearestStore\bin\NearestStore.pdb
+E:\dsod Projects\NearestStore\NearestStore\obj\Debug\NearestStore.dll
+E:\dsod Projects\NearestStore\NearestStore\obj\Debug\NearestStore.pdb

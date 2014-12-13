@@ -1,0 +1,6 @@
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\bin\SolarServiceClient.dll.config
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\bin\SolarServiceClient.dll
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\bin\SolarServiceClient.pdb
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\obj\Debug\SolarServiceClient.csprojResolveAssemblyReference.cache
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\obj\Debug\SolarServiceClient.dll
+E:\dsod Projects\SolarServiceClient\SolarServiceClient\obj\Debug\SolarServiceClient.pdb

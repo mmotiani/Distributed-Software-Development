@@ -1,0 +1,6 @@
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\obj\Debug\verifyANDtransformSERVICE.csprojResolveAssemblyReference.cache
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\bin\verifyANDtransformSERVICE.dll.config
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\bin\verifyANDtransformSERVICE.dll
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\bin\verifyANDtransformSERVICE.pdb
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\obj\Debug\verifyANDtransformSERVICE.dll
+E:\dsod Projects\verifyANDtransform\verifyANDtransformSERVICE\obj\Debug\verifyANDtransformSERVICE.pdb

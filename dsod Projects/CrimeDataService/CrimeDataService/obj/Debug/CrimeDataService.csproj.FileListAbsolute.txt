@@ -1,0 +1,6 @@
+E:\dsod Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.csprojResolveAssemblyReference.cache
+E:\dsod Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll.config
+E:\dsod Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll
+E:\dsod Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.pdb
+E:\dsod Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.dll
+E:\dsod Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.pdb

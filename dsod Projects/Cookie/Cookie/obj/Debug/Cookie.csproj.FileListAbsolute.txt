@@ -1,0 +1,6 @@
+E:\dsod Projects\Cookie\Cookie\obj\Debug\Cookie.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Cookie\Cookie\bin\Cookie.dll.config
+E:\dsod Projects\Cookie\Cookie\bin\Cookie.dll
+E:\dsod Projects\Cookie\Cookie\bin\Cookie.pdb
+E:\dsod Projects\Cookie\Cookie\obj\Debug\Cookie.dll
+E:\dsod Projects\Cookie\Cookie\obj\Debug\Cookie.pdb

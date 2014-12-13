@@ -1,0 +1,9 @@
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\dsod Projects\NearestStore\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

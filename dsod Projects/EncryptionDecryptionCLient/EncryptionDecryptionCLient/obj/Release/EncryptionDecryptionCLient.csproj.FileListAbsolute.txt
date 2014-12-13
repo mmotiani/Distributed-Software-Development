@@ -1,0 +1,6 @@
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\bin\EncryptionDecryptionCLient.dll.config
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\bin\EncryptionDecryptionCLient.dll
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\bin\EncryptionDecryptionCLient.pdb
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\obj\Release\EncryptionDecryptionCLient.csprojResolveAssemblyReference.cache
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\obj\Release\EncryptionDecryptionCLient.dll
+E:\dsod Projects\EncryptionDecryptionCLient\EncryptionDecryptionCLient\obj\Release\EncryptionDecryptionCLient.pdb

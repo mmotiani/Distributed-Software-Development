@@ -1,0 +1,5 @@
+E:\dsod Projects\Restful_test\Restful_test\obj\Debug\Restful_test.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Restful_test\Restful_test\bin\Restful_test.dll
+E:\dsod Projects\Restful_test\Restful_test\bin\Restful_test.pdb
+E:\dsod Projects\Restful_test\Restful_test\obj\Debug\Restful_test.dll
+E:\dsod Projects\Restful_test\Restful_test\obj\Debug\Restful_test.pdb

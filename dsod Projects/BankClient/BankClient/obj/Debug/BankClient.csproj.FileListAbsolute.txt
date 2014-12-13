@@ -1,0 +1,6 @@
+E:\dsod Projects\BankClient\BankClient\obj\Debug\BankClient.csprojResolveAssemblyReference.cache
+E:\dsod Projects\BankClient\BankClient\bin\BankClient.dll.config
+E:\dsod Projects\BankClient\BankClient\bin\BankClient.dll
+E:\dsod Projects\BankClient\BankClient\bin\BankClient.pdb
+E:\dsod Projects\BankClient\BankClient\obj\Debug\BankClient.dll
+E:\dsod Projects\BankClient\BankClient\obj\Debug\BankClient.pdb

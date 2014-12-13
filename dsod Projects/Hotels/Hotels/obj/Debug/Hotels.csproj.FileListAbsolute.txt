@@ -1,0 +1,6 @@
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.dll.config
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.dll
+E:\dsod Projects\Hotels\Hotels\bin\Hotels.pdb
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.dll
+E:\dsod Projects\Hotels\Hotels\obj\Debug\Hotels.pdb

@@ -1,0 +1,7 @@
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\bin\Restful_WSDLdiscovery.dll.config
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\bin\Restful_WSDLdiscovery.dll
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\bin\Restful_WSDLdiscovery.pdb
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\bin\GoogleSearchAPI.dll
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\obj\Release\Restful_WSDLdiscovery.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\obj\Release\Restful_WSDLdiscovery.dll
+E:\dsod Projects\Restful_WSDLdiscovery\Restful_WSDLdiscovery\obj\Release\Restful_WSDLdiscovery.pdb

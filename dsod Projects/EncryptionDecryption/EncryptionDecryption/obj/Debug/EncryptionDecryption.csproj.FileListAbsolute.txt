@@ -1,0 +1,6 @@
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csprojResolveAssemblyReference.cache
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\bin\EncryptionDecryption.dll.config
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\bin\EncryptionDecryption.dll
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\bin\EncryptionDecryption.pdb
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.dll
+E:\dsod Projects\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.pdb

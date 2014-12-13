@@ -1,0 +1,6 @@
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\obj\Debug\Restful_WSDLdiscoveryClient.csprojResolveAssemblyReference.cache
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\bin\Restful_WSDLdiscoveryClient.dll.config
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\bin\Restful_WSDLdiscoveryClient.dll
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\bin\Restful_WSDLdiscoveryClient.pdb
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\obj\Debug\Restful_WSDLdiscoveryClient.dll
+E:\dsod Projects\Restful_WSDLdiscoveryClient\Restful_WSDLdiscoveryClient\obj\Debug\Restful_WSDLdiscoveryClient.pdb

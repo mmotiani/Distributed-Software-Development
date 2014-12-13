@@ -1,0 +1,8 @@
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll.config
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\DLLTryIt.pdb
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\EncDec.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\bin\EncDec.pdb
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Release\DLLTryIt.csprojResolveAssemblyReference.cache
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Release\DLLTryIt.dll
+E:\dsod Projects\DLLTryIt\DLLTryIt\obj\Release\DLLTryIt.pdb

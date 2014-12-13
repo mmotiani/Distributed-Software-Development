@@ -1,0 +1,6 @@
+E:\dsod Projects\WeatherService\WeatherService\bin\WeatherService.dll.config
+E:\dsod Projects\WeatherService\WeatherService\bin\WeatherService.dll
+E:\dsod Projects\WeatherService\WeatherService\bin\WeatherService.pdb
+E:\dsod Projects\WeatherService\WeatherService\obj\Release\WeatherService.csprojResolveAssemblyReference.cache
+E:\dsod Projects\WeatherService\WeatherService\obj\Release\WeatherService.dll
+E:\dsod Projects\WeatherService\WeatherService\obj\Release\WeatherService.pdb
